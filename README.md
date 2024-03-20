@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CS-Mango
 - 👀 I’m interested in Gaming, Problem solving, AI, Game development, Reading, Math, Physics, Lego, 
-- 🌱 I’m currently learning CS at KFUPM
+- 🌱 I’m about learning CS at KFUPM
 - 📫 How to reach me :
 - Telegram : <https://t.me/Mango_Kirby>
 - Email : <>
