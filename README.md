@@ -5,7 +5,7 @@
 - 📫 How to reach me :
 - Telegram : <https://t.me/Mango_Kirby>
 - Email : <themango.2007@gmail.com>
-- Discord : <_the_mango_>
+- Discord : <```_the_mango_```>
 - Codeforces Handle : <```_Mango_```>
 
 - 😄 Pronouns: He/Him/هو
