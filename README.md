@@ -3,7 +3,8 @@
 - 🌱 I’m about learning CS at KFUPM
 - 📫 How to reach me :
 - Telegram : <https://t.me/Mango_Kirby>
-- Email : <>
+- Email : <themango.2007@gmail.com>
+- Discord : <_the_mango_>
 - 😄 Pronouns: He/Him/هو
 - ⚡ Fun fact: I'm not a real mango 0v0 or I'm I ?
 
