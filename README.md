@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MangoPi-e
 - 👀 I’m interested in Gaming, Problem solving, AI, Game development, Reading, Math, Physics, Lego, 
-- 🌱 I’m about learning CS at KFUPM
+- 🌱 CS major at KFUPM
 
 - 📫 How to reach me :
 - Telegram : <https://t.me/Mango_Kirby>
